@@ -1,0 +1,15 @@
+{
+  "name": "saeid.s.nobakht/ted-video-info-downloader",
+  "description": "A PHP script for downloading TED videos information including subtitles, download links, metadata, etc.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Saeid.S.Nobakht",
+      "email": "sd.nobakht@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "6.3.0"
+  }
+}
